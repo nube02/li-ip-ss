@@ -1,0 +1,27 @@
+{
+  "adsterra_direct_link": "https://ponga_aqui_su_direct_link_de_adsterra_completo.com",
+  "canales": [
+    {
+      "left_name": "Real Madrid",
+      "left_initials": "RMA",
+      "left_color": "#FFFFFF",
+      "time": "14:00",
+      "date": "EN VIVO",
+      "right_name": "Atlético",
+      "right_initials": "ATM",
+      "right_color": "#E23A3A",
+      "url_stream": "https://streameasthd.net"
+    },
+    {
+      "left_name": "Manchester City",
+      "left_initials": "MCI",
+      "left_color": "#6CABDD",
+      "time": "16:00",
+      "date": "09 NOV",
+      "right_name": "Leicester",
+      "right_initials": "LEI",
+      "right_color": "#0B56A4",
+      "url_stream": "https://playnixes.com"
+    }
+  ]
+}
